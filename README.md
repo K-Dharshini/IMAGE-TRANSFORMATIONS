@@ -1,6 +1,6 @@
 # IMAGE-TRANSFORMATIONS
 
-## Aim
+## Aim:
 To perform image transformation such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping using OpenCV and Python.
 
 ## Software Required:
